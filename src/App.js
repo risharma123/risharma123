@@ -2,7 +2,8 @@
 import React from 'react';
 import './App.css';
 /*import Toggle from './Toggle'*/
-import FormHandling from './FormHandling';
+/*import FormHandling from './FormHandling';*/
+import Traffic from './Traffic';
 
 function App() {
 
@@ -12,7 +13,9 @@ function App() {
       <div className="App">
        <h1>FormHandling</h1> 
         {/* <Toggle />*/}
-        <FormHandling/>
+       {/* <FormHandling/>*/}
+       <Traffic />
+
       </div>
     </>
   );
