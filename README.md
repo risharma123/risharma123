@@ -1,10 +1,11 @@
-![logo](https://unsplash.com/photos/an-open-door-in-a-dark-room-with-lines-coming-out-of-it-UWMKm7K0dgo)
 <h1 align="center">Hi 👋, I'm Riya Sharma</h1>
 <h3 align="center">I am a self-taught full-stack web developer 💻 with a passion for continuous learning and gaining practical experience. My journey in web development has allowed me to explore various technologies and frameworks that I find rewarding. I actively seek opportunities to apply my knowledge through personal projects and collaborations. I am eager to contribute to innovative solutions in the tech industry and thrive on challenges, aiming to make a meaningful impact with my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risharma123&label=Profile%20views&color=0e75b6&style=flat" alt="risharma123" /> </p>
 
 - 🔭 **Currently working, learning and growing my skillset in web development (MERN stack),data structures and algorithms.**
+
+- 🤝 **Looking for opportunities to join as an intern/full time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=risharma123&show_icons=true&locale=en" alt="risharma123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=risharma123&" alt="risharma123" /></p>
+
